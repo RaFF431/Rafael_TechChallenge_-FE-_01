@@ -1,0 +1,40 @@
+body{
+    background-image: linear-gradient(to right top, #051937, #004a76, #00818d, #00b56c, #9dde0e);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 2;
+}
+
+.container{
+    margin: 0 auto;
+    max-width: 630px;
+    min-height: 100vh;
+}
+
+
+.card{
+    background-color: white;
+    background-clip: border-box;
+    border-radius: 8px;
+    box-shadow: 0 0 10px whitesmoke;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.card-body{
+    font-size: 0;
+    padding: 20px;
+}
+
+.card-title{
+    font-size: 2rem;
+    margin: 0 0 0.75rem;
+    color:#00b56c
+}
+
+h2 {
+    text-align: center;
+    font-size: 50px;
+    margin-top: 0px;
+    color:#00818d;
+}
